@@ -1,7 +1,5 @@
 # team-project
 Online Shopping Team Project - Software Engineering Laboratory
-
-
 ## Modules
 
-Modules: Login, Catalog
+Modules: Login, Cart, Catalog
